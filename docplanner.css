@@ -1,0 +1,45 @@
+nav{color: #747474;}
+.logo-docplanner{  height: 17%;
+    width: 28%}
+    .titre-general{text-align: center;margin-top: 18%}
+    .titre-local{color: #00b39b;    padding-bottom: 4%;
+    }
+    .lead__logo{margin-bottom:3%;height: 34px;}
+    .bloc-a{background-color: #00ccb1;
+    color: white;    overflow: hidden;  height:57%;border-radius: 5%;}
+    .bloc-b{background-color: #3d83df;color: white ;  height:60%;overflow: hidden;border-radius: 5%;}
+    .patient-doc-img{  width: 81%;
+        height: 65%;
+        margin-left: 39%;}
+    .bloc-aa{color: #747474;    line-height: 1.75;}
+.text-fo-me{padding: 4% 4% 0% }
+.def-company{color: #00b39b;
+    font-size: 168%;
+    letter-spacing: 1px;}
+    .list-doc{display:flex;
+    flex-wrap: wrap;list-style: none;color: #747474;}
+    .item-one{color: #747474;}
+    .item-one :hover{color:#00b39b;text-decoration: none; }
+    .for-doc{padding: 0% 1%;
+    margin: 5% 0%;}
+    .doc-lien{color: #747474;
+    font-size: 108%;
+    cursor: pointer;}
+    .lead__logo{height: 21px;
+    margin-right: 5px; margin-left: 28px;}
+    .big-box{background-color: #e5faf8;    background-image: linear-gradient(-45deg,rgba(0,204,177,.01) 5%,rgba(61,199,223,.1));}
+    .title-one{ font-size: 2.125rem;
+        color: #00b39b;}
+    .boxes{background-color: white;border-radius:1px;text-align: center;     height: 48%;     margin-top: 3%;
+    }
+    .boxes h3{    font-size: 142%;
+        color: #00b39b;}
+        .image-petite{margin: 7%;}
+        .bloc-seul{text-align: center;  padding: 11%;}
+        .bloc-seul h1{color: #00b39b;    font-size: 163%;}
+        .bloc-seul p{ color: #747474;    font-size: 87%;    margin: 4% 0%;}
+       .cotoyer{display: flex;
+justify-content: space-between; margin: 15% 0%;}
+.pays-me{font-size: 120%;color: gray;}
+.btn-primary{ font-size: 50%;    margin-left: 34%;  }
+    
